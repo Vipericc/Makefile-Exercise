@@ -1,0 +1,21 @@
+CMakeFiles/main.dir/src/main.c.obj: D:\Makefile\ exercise\src\main.c \
+ D:/Makefile\ exercise/include/print.h \
+ D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/stdio.h \
+ D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/crtdefs.h \
+ D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/_mingw.h \
+ D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/vadefs.h \
+ D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
+ D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/_mingw_print_push.h \
+ D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/swprintf.inl \
+ D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/_mingw_print_pop.h \
+ D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/stdlib.h \
+ D:/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed/limits.h \
+ D:/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed/syslimits.h \
+ D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/limits.h \
+ D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ D:/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/malloc.h

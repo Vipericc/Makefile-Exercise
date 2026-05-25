@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Makefile exercise/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
