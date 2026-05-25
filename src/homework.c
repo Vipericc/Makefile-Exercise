@@ -30,7 +30,7 @@ for (int i = 1; i <= 10; i++)
 printf("1到10的和为：%d\n", sum);
 
 int arr[3] = {1, 2, 3};
-for(int i = 0; i < 3; i++)
+for (int i = 0; i < 3; i++)
 {
 	printf("数组元素：%d\n", arr[i]);
 }
